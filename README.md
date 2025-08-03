@@ -1,11 +1,11 @@
-<h1 align="center"> <b>JJ HEKKO HEEL</b> 👋</h1>
+<h1 align="center"> <b>JJ HELLO HEEL</b> 👋</h1>
 
 > 🌐 Сайты, API, сетевые приложения  
 > 🛠️ C++ • Go • Rust • Python • HTML/CSS • Bootstrap
 
 ---
 
-### 🧰 Мои технологии
+### 🧰 TECH
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,cpp,go,rust" />
 </p>
