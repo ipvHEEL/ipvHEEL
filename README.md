@@ -24,7 +24,7 @@
 ---
 
 
-### 📊 Моя активность
+### 📊 Actvts
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ipvHEEL&show_icons=true&theme=radical&layout=compact" />
