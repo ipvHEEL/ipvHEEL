@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Привет, я <b>ipvHEEL</b> 👋</h1>
+<h3 align="center">Full-Stack разработчик • Промышленный альпинизм • Высотные решения</h3>
 
-<!--
-**ipvHEEL/ipvHEEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🌐 Создаю сайты, API, сетевые приложения  
+> 🛠️ C++ • Go • Rust • Python • HTML/CSS • Bootstrap
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Мои технологии
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,cpp,go,rust" />
+</p>
+
+---
+
+### 🚀 Мои проекты
+
+| Проект | Описание |
+|-------|--------|
+| [**profalpsite**](https://github.com/ipvHEEL/profalpsite) | 🌐 Сайт по промышленному альпинизму с видео, галереей и формой |
+| [**ToDo-API**](https://github.com/ipvHEEL/ToDo-API) | 📋 REST API для задач (Go) |
+| [**cpp_winsock_messenger**](https://github.com/ipvHEEL/cpp_winsock_messenger) | 💬 TCP-мессенджер на C++ с WinSock |
+| [**Echo**](https://github.com/ipvHEEL/Echo) | 🛰️ Echo-сервер на Rust |
+
+---
+
+### 📊 Моя активность
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipvHEEL&show_icons=true&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipvHEEL&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipvHEEL&theme=radical" />
+</p>
+
+---
+
+### 📈 Статистика профиля
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ipvHEEL&label=Просмотров&color=blue&style=flat" alt="ipvHEEL" />
+</p>
