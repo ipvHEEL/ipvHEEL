@@ -36,8 +36,3 @@
 
 ---
 
-### 📈 Статистика профиля
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ipvHEEL&label=Просмотров&color=blue&style=flat" alt="ipvHEEL" />
-</p>
