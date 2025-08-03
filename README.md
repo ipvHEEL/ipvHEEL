@@ -2,7 +2,7 @@
 
 > 🌐 Сайты, API, сетевые приложения  
 > 🛠️ C++ • Go • Rust • Python • HTML/CSS • Bootstrap
-
+> 💼 Data & IT Engineer @ АГРОХОЛДИНГ «МИРАТОРГ»
 ---
 
 ### 🧰 TECH
