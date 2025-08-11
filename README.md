@@ -18,8 +18,8 @@
 |-------|--------|
 | [**profalpsite**](https://github.com/ipvHEEL/profalpsite) |  Сайт по промышленному альпинизму  |
 | [**ToDo-API**](https://github.com/ipvHEEL/ToDo-API) |  REST API для задач (Go) |
-| [**cpp_winsock_messenger**](https://github.com/ipvHEEL/cpp_winsock_messenger) | 💬 TCP-мессенджер на C++ с WinSock |
-| [**Echo**](https://github.com/ipvHEEL/Echo) | 🛰 Echo-сервер на Rust |
+| [**cpp_winsock_messenger**](https://github.com/ipvHEEL/cpp_winsock_messenger) |  TCP-мессенджер на C++ с WinSock |
+| [**Echo**](https://github.com/ipvHEEL/Echo) |  Echo-сервер на Rust |
 
 ---
 
