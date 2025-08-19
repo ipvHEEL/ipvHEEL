@@ -4,14 +4,6 @@
 >  C++  Go  Rust  Python  Web |
 >  Data & IT Engineer @ АГРОХОЛДИНГ «МИРАТОРГ»
 ---
-
-###  TECH
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,go,rust,sql" />
-</p>
-
----
-
 ###  Pets
 
 | Проект | Описание |
