@@ -12,7 +12,7 @@
 | [**ToDo-API**](https://github.com/ipvHEEL/ToDo-API) |  REST API для задач (Go) |
 | [**cpp_winsock_messenger**](https://github.com/ipvHEEL/cpp_winsock_messenger) |  TCP-мессенджер на C++ с WinSock |
 | [**Echo**](https://github.com/ipvHEEL/Echo) |  Echo-сервер на Rust |
-| [**Synapse-**](https://github.com/ipvHEEL/Synapse-) |   Масштабируемая система управления задачами для команд |
+| [**Synapse-**](https://github.com/ipvHEEL/Synapse-) |   Система управления задачами для команд |
 
 ---
 
