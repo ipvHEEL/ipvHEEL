@@ -1,8 +1,7 @@
 <h1 align="center"> <b>JJ HELLO HEEL</b> </h1>
 
->  Сайты, API, сетевые приложения  
 >  C++  Go  Rust  Python  Web |
->  Data & IT Engineer @ АГРОХОЛДИНГ «МИРАТОРГ»
+
 ---
 ###  Pets
 
