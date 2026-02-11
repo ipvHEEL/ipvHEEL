@@ -12,8 +12,7 @@
 | [**cpp_winsock_messenger**](https://github.com/ipvHEEL/cpp_winsock_messenger) |  TCP-мессенджер на C++ с WinSock |
 | [**Echo**](https://github.com/ipvHEEL/Echo) |  Echo-сервер на Rust |
 | [**Synapse-**](https://github.com/ipvHEEL/Synapse-) |   Система управления задачами для команд |  https://github.com/ipvHEEL/Web-rreprrts
-[**WEB reports**](https://github.com/ipvHEEL/Web-rreprrts) |  Централизованый веб сервис для отчетов |
-[**WEB ETL**](https://github.com/ipvHEEL/WebETL) |  Веб приложение управления ETL процесса ERP и DWH |
+
 
 ---
 
