@@ -1,8 +1,4 @@
 <h1 align="center"> <b>JJ HELLO HEEL</b> </h1>
-
->  C++  Go  Rust  Python  Web |
-
----
 ###  Pets
 
 | Проект | Описание |
